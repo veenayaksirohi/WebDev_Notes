@@ -1,0 +1,7 @@
+# Ignore personal/config/editor folders
+.kiro/
+.obsidian/
+
+# Ignore Copilot and template folders
+copilot-custom-prompts/
+Template/
