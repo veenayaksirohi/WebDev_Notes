@@ -70,7 +70,7 @@
 
 **3.2 Comparisons**
 
-- Equality operators (== vs ===)
+- Equality operators (== vs === )
 - Relational operators
 - Object.is() method
 - Comparing different types
