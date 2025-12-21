@@ -9,7 +9,6 @@ aliases:
   - Functional Programming in Python
 date: 2025-11-17
 ---
-
 # 🛠️ 4. Functions & Functional Programming — Detailed (Syntax + Explanation)
 
 ## 📜 Table of Contents
@@ -343,7 +342,7 @@ def say_hi():
 
 say_hi()
 # Before
-# Hi
+# Hi result = fn(*args, **kwargs)(prints)
 # After
 ```
 
