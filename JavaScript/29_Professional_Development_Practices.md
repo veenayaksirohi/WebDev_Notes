@@ -462,7 +462,7 @@ const monitoredUserService = {
 
 ### Navigation
 - [[28_Security_Considerations|← 28. Security Considerations]]
-- [[Table Of Content|📚 Table of Contents]]
+- [[JavaScript/Table Of Content|📚 Table of Contents]]
 - [[30_Integration_and_Interoperability|30. Integration and Interoperability →]]
 
 ### Related Concepts

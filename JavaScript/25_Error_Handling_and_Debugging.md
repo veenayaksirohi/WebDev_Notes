@@ -1434,7 +1434,7 @@ console.log('   - Monitor errors in production');
 
 ### Navigation
 - [[24_Advanced_Language_Features|← 24. Advanced Language Features]]
-- [[Table Of Content|📚 Table of Contents]]
+- [[JavaScript/Table Of Content|📚 Table of Contents]]
 - [[26_Browser_APIs_and_Web_Technologies|26. Browser APIs and Web Technologies →]]
 
 ### Related Concepts

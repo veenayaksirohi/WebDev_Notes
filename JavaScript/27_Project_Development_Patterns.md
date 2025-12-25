@@ -863,7 +863,7 @@ console.log('   - Document your architecture decisions');
 
 ### Navigation
 - [[26_Browser_APIs_and_Web_Technologies|← 26. Browser APIs and Web Technologies]]
-- [[Table Of Content|📚 Table of Contents]]
+- [[JavaScript/Table Of Content|📚 Table of Contents]]
 - [[28_Security_Considerations|28. Security Considerations →]]
 
 ### Related Concepts

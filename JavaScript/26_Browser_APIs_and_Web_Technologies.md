@@ -1616,7 +1616,7 @@ console.log('🌐 Browser APIs and Web Technologies examples completed');
 
 ### Navigation
 - [[25_Error_Handling_and_Debugging|← 25. Error Handling and Debugging]]
-- [[Table Of Content|📚 Table of Contents]]
+- [[JavaScript/Table Of Content|📚 Table of Contents]]
 - [[27_Project_Development_Patterns|27. Project Development Patterns →]]
 
 ### Related Concepts

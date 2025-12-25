@@ -518,7 +518,7 @@ async function example() {
 
 ### Navigation
 - [[16_Timers_and_Scheduling|← 16. Timers and Scheduling]]
-- [[Table Of Content|📚 Table of Contents]]
+- [[JavaScript/Table Of Content|📚 Table of Contents]]
 - [[18_Advanced_Asynchronous_Patterns|18. Advanced Asynchronous Patterns →]]
 
 ### Related Concepts

@@ -1303,7 +1303,7 @@ console.log('Call log:', mockEmailService._getCallLog());
 
 ### Navigation
 - [[22_Functional_Programming|← 22. Functional Programming]]
-- [[Table Of Content|📚 Table of Contents]]
+- [[JavaScript/Table Of Content|📚 Table of Contents]]
 - [[24_Advanced_Language_Features|24. Advanced Language Features →]]
 
 ### Related Concepts

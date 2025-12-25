@@ -1154,7 +1154,7 @@ console.log('\n🌐 Remember: Good integration is about building bridges, not wa
 
 ### Navigation
 - [[29_Professional_Development_Practices|← 29. Professional Development Practices]]
-- [[Table Of Content|📚 Table of Contents]]
+- [[JavaScript/Table Of Content|📚 Table of Contents]]
 
 ### Related Concepts
 - [[26_Browser_APIs_and_Web_Technologies|Browser APIs]]

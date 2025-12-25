@@ -1011,7 +1011,7 @@ MemoryPitfalls.accumulatingListeners();
 
 ### Navigation
 - [[20_Advanced_OOP_Concepts|← 20. Advanced OOP Concepts]]
-- [[Table Of Content|📚 Table of Contents]]
+- [[JavaScript/Table Of Content|📚 Table of Contents]]
 - [[22_Functional_Programming|22. Functional Programming →]]
 
 ### Related Concepts

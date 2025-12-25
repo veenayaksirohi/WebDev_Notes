@@ -535,7 +535,7 @@ Current user: admin
 
 ### Navigation
 - [[01_Introduction_to_JavaScript|← 1. Introduction to JavaScript]]
-- [[Table Of Content|📚 Table of Contents]]
+- [[JavaScript/Table Of Content|📚 Table of Contents]]
 - [[03_Operators_and_Expressions|3. Operators and Expressions →]]
 
 ### Related Concepts

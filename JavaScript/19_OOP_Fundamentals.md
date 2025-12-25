@@ -1027,7 +1027,7 @@ let notificationManager = new NotificationManager(emailService);
 
 ### Navigation
 - [[18_Advanced_Asynchronous_Patterns|← 18. Advanced Asynchronous Patterns]]
-- [[Table Of Content|📚 Table of Contents]]
+- [[JavaScript/Table Of Content|📚 Table of Contents]]
 - [[20_Advanced_OOP_Concepts|20. Advanced OOP Concepts →]]
 
 ### Related Concepts

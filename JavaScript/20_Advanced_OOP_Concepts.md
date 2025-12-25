@@ -739,7 +739,7 @@ class User {
 
 ### Navigation
 - [[19_OOP_Fundamentals|← 19. OOP Fundamentals]]
-- [[Table Of Content|📚 Table of Contents]]
+- [[JavaScript/Table Of Content|📚 Table of Contents]]
 - [[21_Memory_Management_and_Performance|21. Memory Management and Performance →]]
 
 ### Related Concepts

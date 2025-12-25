@@ -1405,7 +1405,7 @@ console.log('Remember: Security is an ongoing process, not a one-time implementa
 
 ### Navigation
 - [[27_Project_Development_Patterns|← 27. Project Development Patterns]]
-- [[Table Of Content|📚 Table of Contents]]
+- [[JavaScript/Table Of Content|📚 Table of Contents]]
 - [[29_Professional_Development_Practices|29. Professional Development Practices →]]
 
 ### Related Concepts

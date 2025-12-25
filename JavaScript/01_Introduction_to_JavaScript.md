@@ -286,7 +286,7 @@ graph LR
 ## Related Links & Next Steps
 
 ### Navigation
-- [[Table Of Content|📚 Table of Contents]]
+- [[JavaScript/Table Of Content|📚 Table of Contents]]
 - [[02_Variables_and_Data_Types|2. Variables and Data Types →]]
 
 ### Related Concepts

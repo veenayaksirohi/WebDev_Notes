@@ -1147,7 +1147,7 @@ console.log('Safe proxy test:', safeObj.nonExistentProperty); // DEFAULT_VALUE
 
 ### Navigation
 - [[23_Modules_and_Code_Organization|← 23. Modules and Code Organization]]
-- [[Table Of Content|📚 Table of Contents]]
+- [[JavaScript/Table Of Content|📚 Table of Contents]]
 - [[25_Error_Handling_and_Debugging|25. Error Handling and Debugging →]]
 
 ### Related Concepts

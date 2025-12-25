@@ -1025,7 +1025,7 @@ evenDoubled$.subscribe({
 
 ### Navigation
 - [[21_Memory_Management_and_Performance|← 21. Memory Management and Performance]]
-- [[Table Of Content|📚 Table of Contents]]
+- [[JavaScript/Table Of Content|📚 Table of Contents]]
 - [[23_Modules_and_Code_Organization|23. Modules and Code Organization →]]
 
 ### Related Concepts
