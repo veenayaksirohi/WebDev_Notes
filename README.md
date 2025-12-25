@@ -27,5 +27,3 @@ In my free time, I enjoy **watching anime**, **learning new tools and technologi
     
 
 ---
-
-If you want, I can also make this **shorter (30–40 seconds)** or adjust it for a **freshers / backend-only interview**.
