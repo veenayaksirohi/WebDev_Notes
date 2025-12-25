@@ -500,12 +500,8 @@ Use `None` as default and create the mutable inside the function.
 
 ---
 
-# 🔗 Navigation
+## 🔗 Links & Navigation
 
-### Next Chapter
-
-➡️ [[05_Modules_and_Packages|📦 5. Modules & Packages]]
-
-### Previous Chapter
-
-⬅️ [[03_Data_Structures|🗂️ 3. Data Structures]]
+- **Home**: [[Table Of Content]]
+- **Previous**: [[03-Data_Structures]]
+- **Next**: [[05-Modules,_Packages,_and_Standard_Library]]

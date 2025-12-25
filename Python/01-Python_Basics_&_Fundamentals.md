@@ -185,7 +185,7 @@ Here are common interview questions related to this “Basics & Fundamentals” 
 
 ## 🔗 Links & Navigation
 
-* Next: [[Python Data Structures]]
-* Previous / See also: [[Introduction to Programming Concepts]]
+- **Home**: [[Table Of Content]]
+- **Next**: [[02-Control_Flow]]
 
 ---

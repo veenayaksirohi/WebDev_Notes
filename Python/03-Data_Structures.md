@@ -318,12 +318,8 @@ unique_list = list(set(my_list))
 
 ---
 
-# 🔗 Navigation
+## 🔗 Links & Navigation
 
-### Next Chapter
-
-➡️ [[04_Functions|📘 4. Functions in Python]]
-
-### Previous Chapter
-
-⬅️ [[02_Control_Flow|🔁 2. Control Flow]]
+- **Home**: [[Table Of Content]]
+- **Previous**: [[02-Control_Flow]]
+- **Next**: [[04-Functions_&_Functional_Programming]]

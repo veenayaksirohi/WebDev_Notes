@@ -174,3 +174,12 @@ Here are some common interview-style questions you can add to your notes / use f
 |6|Can you nest loops and conditions in Python?|Yes — used in many algorithms|
 |7|Can `else` be used with loops?|Yes → executes if loop ends normally (no break)|
 |8|Why is control flow important?|Adds logic, decision-making, flexibility|
+
+
+---
+
+## 🔗 Links & Navigation
+
+- **Home**: [[Table Of Content]]
+- **Previous**: [[01-Python_Basics_&_Fundamentals]]
+- **Next**: [[03-Data_Structures]]

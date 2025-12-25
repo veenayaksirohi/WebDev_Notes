@@ -423,3 +423,12 @@ for p in plist: p.join()
   **A:** Reference counting and cyclic checking — no need for manual "free"/`delete`.
 
 ***
+
+
+---
+
+## 🔗 Links & Navigation
+
+- **Home**: [[Table Of Content]]
+- **Previous**: [[08-Iterators,_Generators_&_Context_Managers]]
+- **Next**: [[10-Python_Internals_(Bonus_Expert)]]

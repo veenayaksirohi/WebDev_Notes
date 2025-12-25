@@ -437,12 +437,8 @@ importlib.reload(module)
 
 ---
 
-# 🔗 Navigation
+## 🔗 Links & Navigation
 
-### Next Chapter
-
-➡️ [[06_Error_Handling_and_FileIO|⚠️ 6. Error Handling & File I/O]]
-
-### Previous Chapter
-
-⬅️ [[04_Functions_and_FP|🛠️ 4. Functions & Functional Programming]]
+- **Home**: [[Table Of Content]]
+- **Previous**: [[04-Functions_&_Functional_Programming]]
+- **Next**: [[06-Error_Handling_and_File_IO]]

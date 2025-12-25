@@ -195,3 +195,12 @@ with managed_resource() as res:
 **Q7. How to create a context manager using a generator?**
 - Use `@contextmanager` decorator on a generator function: code before yield is setup; after yield is cleanup.
 
+
+
+---
+
+## 🔗 Links & Navigation
+
+- **Home**: [[Table Of Content]]
+- **Previous**: [[07-Object-Oriented_Programming_(OOP)]]
+- **Next**: [[09-Advanced_Python_Concepts]]

@@ -219,3 +219,11 @@ gc.collect()  # Requests GC to clean up garbage
   **A:** Use `gc` for garbage tracking, `sys` for reference counts, and profilers for big programs.
 
 ***
+
+
+---
+
+## 🔗 Links & Navigation
+
+- **Home**: [[Table Of Content]]
+- **Previous**: [[09-Advanced_Python_Concepts]]

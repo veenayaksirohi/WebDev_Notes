@@ -1490,3 +1490,10 @@ Classes cooperate using `super()` calls following **MRO** rules.
 * MRO
 
 ---
+
+
+## 🔗 Links & Navigation
+
+- **Home**: [[Table Of Content]]
+- **Previous**: [[06-Error_Handling_and_File_IO]]
+- **Next**: [[08-Iterators,_Generators_&_Context_Managers]]

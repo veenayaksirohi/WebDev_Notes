@@ -367,12 +367,8 @@ They run behind the scenes in `with open()`, managing cleanup and auto-closing f
 
 ---
 
-# 🔗 Navigation
+## 🔗 Links & Navigation
 
-### Next Chapter
-
-➡️ [[07_OOP|🏛️ 7. Object-Oriented Programming]]
-
-### Previous Chapter
-
-⬅️ [[05_Modules_and_Packages|📦 5. Modules & Packages]]
+- **Home**: [[Table Of Content]]
+- **Previous**: [[05-Modules,_Packages,_and_Standard_Library]]
+- **Next**: [[07-Object-Oriented_Programming_(OOP)]]
