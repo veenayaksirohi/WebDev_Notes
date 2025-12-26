@@ -1,113 +1,132 @@
-# 🧠 DSA Notes
+---
+tags:
+  - dsa
+  - algorithms
+  - data-structures
+  - index
+  - table-of-contents
+aliases:
+  - DSA Notes Index
+  - DSA TOC
+date: 2025-12-25
+---
 
-## 1. Foundations & Complexity
+# 🧠 DSA Notes — Table of Contents
+
+A comprehensive guide to Data Structures and Algorithms for interview preparation and competitive programming.
+
+---
+
+## 📚 Course Structure
+
+### [[1. Foundations & Complexity|1. Foundations & Complexity]]
 
 - **Core concepts**: Algorithms, data structures, problem types
-    
-- **Complexity analysis**: Big O, Big Θ, Big Ω[w3schools+1](https://www.w3schools.com/dsa/dsa_intro.php)​
-    
-- **Time & space**: Best, average, worst case[w3schools+1](https://www.w3schools.com/dsa/dsa_syllabus.php)​
-    
-- **Recursion basics**: Call stack, recurrence intuition[geeksforgeeks+1](https://www.geeksforgeeks.org/dsa/complete-roadmap-to-learn-dsa-from-scratch/)​
-    
+- **Complexity analysis**: Big O, Big Θ, Big Ω
+- **Time & space**: Best, average, worst case
+- **Recursion basics**: Call stack, recurrence intuition
 
-## 2. Arrays, Multi-D Arrays & Strings
+### [[2. Arrays, Multi-D Arrays & Strings|2. Arrays, Multi-D Arrays & Strings]]
 
-- **1D arrays**: Traversal, insertion, deletion, prefix/suffix ideas[geeksforgeeks+1](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/)​
-    
-- **Multi-dimensional arrays**: 2D/3D arrays, matrix representation, row/column operations, common grid problems[bosscoderacademy+1](https://www.bosscoderacademy.com/blog/complete-dsa-roadmap)​
-    
-- **Strings**: Manipulation, sliding window patterns, palindrome checks[almabetter+1](https://www.almabetter.com/bytes/articles/dsa-roadmap)​
-    
-- **Two pointers**: Left–right techniques on arrays/strings[tutedude+1](https://tutedude.com/blogs/dsa-roadmap/)​
-    
-- **Math & bit basics**: GCD, primes, bit operations (`&`, `|`, `^`, shifts) [designgurus+1](https://www.designgurus.io/answers/detail/how-many-topics-are-in-dsa)​
-    
+- **1D arrays**: Traversal, insertion, deletion, prefix/suffix ideas
+- **Multi-dimensional arrays**: 2D/3D arrays, matrix representation, row/column operations, common grid problems
+- **Strings**: Manipulation, sliding window patterns, palindrome checks
+- **Two pointers**: Left–right techniques on arrays/strings
+- **Math & bit basics**: GCD, primes, bit operations (`&`, `|`, `^`, shifts)
 
-## 3. Linked Lists, Stacks & Queues
+### [[3. Linked Lists, Stacks & Queues|3. Linked Lists, Stacks & Queues]]
 
-- **Linked lists**: Singly, doubly, circular; fast–slow pointer tricks[geeksforgeeks+1](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/)​
-    
-- **Stacks**: Array/list-based stack, infix/postfix, monotonic stacks[guvi+1](https://www.guvi.in/blog/dsa-syllabus/)​
-    
-- **Queues**: Simple queues, circular queues, deque[cse.iitpkd+1](https://cse.iitpkd.ac.in/courses/cs2030-Data-Structures-and-Algorithms/)​
-    
-- **Applications**: Undo, BFS, expression evaluation[geeksforgeeks+1](https://www.geeksforgeeks.org/dsa/complete-roadmap-to-learn-dsa-from-scratch/)​
-    
+- **Linked lists**: Singly, doubly, circular; fast–slow pointer tricks
+- **Stacks**: Array/list-based stack, infix/postfix, monotonic stacks
+- **Queues**: Simple queues, circular queues, deque
+- **Applications**: Undo, BFS, expression evaluation
 
-## 4. Searching, Sorting & Hashing
+### [[4. Searching, Sorting & Hashing|4. Searching, Sorting & Hashing]]
 
-- **Searching**: Linear vs binary search; search on answers[w3schools+1](https://www.w3schools.com/dsa/dsa_syllabus.php)​
-    
-- **Sorting**: Bubble, insertion, merge, quicksort, counting, radix[codegnan+1](https://codegnan.com/data-structures-and-algorithms-course-syllabus/)​
-    
-- **Order statistics**: k-th smallest, partition-based selection[guvi+1](https://www.guvi.in/blog/dsa-syllabus/)​
-    
-- **Hashing**: Hash maps/sets, collision handling, frequency maps[geeksforgeeks+1](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/)​
-    
+- **Searching**: Linear vs binary search; search on answers
+- **Sorting**: Bubble, insertion, merge, quicksort, counting, radix
+- **Order statistics**: k-th smallest, partition-based selection
+- **Hashing**: Hash maps/sets, collision handling, frequency maps
 
-## 5. Trees & Binary Search Trees
+### [[5. Trees & Binary Search Trees|5. Trees & Binary Search Trees]]
 
-- **Tree basics**: Terminology, representation[scai.engineering.asu+1](https://scai.engineering.asu.edu/wp-content/uploads/sites/31/2025/03/CSE-310-Syllabus-SP25.pdf)​
-    
-- **Traversals**: Preorder, inorder, postorder, level order[w3schools+1](https://www.w3schools.com/dsa/dsa_syllabus.php)​
-    
-- **Binary Search Trees (BST)**: Insert, delete, search, invariants[roadmap+1](https://roadmap.sh/datastructures-and-algorithms)​
-    
-- **Problems**: Height, diameter, views, LCA, balanced trees intro[geeksforgeeks+1](https://www.geeksforgeeks.org/dsa/complete-roadmap-to-learn-dsa-from-scratch/)​
-    
+- **Tree basics**: Terminology, representation
+- **Traversals**: Preorder, inorder, postorder, level order
+- **Binary Search Trees (BST)**: Insert, delete, search, invariants
+- **Problems**: Height, diameter, views, LCA, balanced trees intro
 
-## 6. Heaps & Priority Queues
+### [[6. Heaps & Priority Queues|6. Heaps & Priority Queues]]
 
-- **Heap concepts**: Min-heap, max-heap, array representation[codegnan+1](https://codegnan.com/data-structures-and-algorithms-course-syllabus/)​
-    
-- **Operations**: Insert, delete, heapify, build-heap[geeksforgeeks+1](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/)​
-    
-- **Priority queues**: Use cases (Dijkstra, scheduling)[datacamp+1](https://www.datacamp.com/blog/dsa-roadmap)​
-    
-- **Heap-based algorithms**: Heap sort, top-k elements[techinterviewhandbook+1](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)​
-    
+- **Heap concepts**: Min-heap, max-heap, array representation
+- **Operations**: Insert, delete, heapify, build-heap
+- **Priority queues**: Use cases (Dijkstra, scheduling)
+- **Heap-based algorithms**: Heap sort, top-k elements
 
-## 7. Graphs & Graph Algorithms
+### [[7. Graphs & Graph Algorithms|7. Graphs & Graph Algorithms]]
 
-- **Graph modeling**: Directed/undirected, weighted/unweighted[cse.iitpkd+1](https://cse.iitpkd.ac.in/courses/cs2030-Data-Structures-and-Algorithms/)​
-    
-- **Representations**: Adjacency list, matrix[w3schools+1](https://www.w3schools.com/dsa/dsa_syllabus.php)​
-    
-- **Traversals**: BFS, DFS, connected components[geeksforgeeks+1](https://www.geeksforgeeks.org/dsa/complete-roadmap-to-learn-dsa-from-scratch/)​
-    
-- **Core algorithms**: Topological sort, cycle detection, bipartite check[bosscoderacademy+1](https://www.bosscoderacademy.com/blog/complete-dsa-roadmap)​
-    
+- **Graph modeling**: Directed/undirected, weighted/unweighted
+- **Representations**: Adjacency list, matrix
+- **Traversals**: BFS, DFS, connected components
+- **Core algorithms**: Topological sort, cycle detection, bipartite check
 
-## 8. Shortest Paths & Advanced Graphs
+### [[8. Shortest Paths & Advanced Graphs|8. Shortest Paths & Advanced Graphs]]
 
-- **Shortest path**: Dijkstra, Bellman–Ford[bosscoderacademy+1](https://www.bosscoderacademy.com/blog/complete-dsa-roadmap)​
-    
-- **All-pairs paths**: Floyd–Warshall[scai.engineering.asu+1](https://scai.engineering.asu.edu/wp-content/uploads/sites/31/2025/03/CSE-310-Syllabus-SP25.pdf)​
-    
-- **MST algorithms**: Prim’s, Kruskal’s[bosscoderacademy+1](https://www.bosscoderacademy.com/blog/complete-dsa-roadmap)​
-    
-- **Advanced topics**: Disjoint set (Union–Find), bridges, articulation points[github+1](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/blob/main/SYLLABUS.md)​
-    
+- **Shortest path**: Dijkstra, Bellman–Ford
+- **All-pairs paths**: Floyd–Warshall
+- **MST algorithms**: Prim's, Kruskal's
+- **Advanced topics**: Disjoint set (Union–Find), bridges, articulation points
 
-## 9. Dynamic Programming & Greedy
+### [[9. Dynamic Programming & Greedy|9. Dynamic Programming & Greedy]]
 
-- **DP fundamentals**: Overlapping subproblems, optimal substructure[geeksforgeeks+1](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/)​
-    
-- **Techniques**: Memoization, tabulation, state design[datacamp+1](https://www.datacamp.com/blog/dsa-roadmap)​
-    
-- **Classic DP problems**: Knapsack, LIS, LCS, coin change[geeksforgeeks+1](https://www.geeksforgeeks.org/dsa/complete-roadmap-to-learn-dsa-from-scratch/)​
-    
-- **Greedy algorithms**: Activity selection, intervals, Huffman, MST greedy[techinterviewhandbook+1](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)​
-    
+- **DP fundamentals**: Overlapping subproblems, optimal substructure
+- **Techniques**: Memoization, tabulation, state design
+- **Classic DP problems**: Knapsack, LIS, LCS, coin change
+- **Greedy algorithms**: Activity selection, intervals, Huffman, MST greedy
 
-## 10. Tries, Strings & Advanced Topics
+### [[10. Tries, Strings & Advanced Topics|10. Tries, Strings & Advanced Topics]]
 
-- **Tries**: Prefix trees, autocomplete, word search[geeksforgeeks+1](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/)​
-    
-- **String algorithms**: KMP, Z-function, Rabin–Karp basics[techinterviewhandbook+1](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)​
-    
-- **Advanced DS**: Segment trees/Fenwick trees (BIT) overview[roadmap+1](https://roadmap.sh/datastructures-and-algorithms)​
-    
-- **Interview prep**: Patterns, problem sets, contest practice strategy[bosscoderacademy+1](https://www.bosscoderacademy.com/blog/complete-dsa-roadmap)​
-    
+- **Tries**: Prefix trees, autocomplete, word search
+- **String algorithms**: KMP, Z-function, Rabin–Karp basics
+- **Advanced DS**: Segment trees/Fenwick trees (BIT) overview
+- **Interview prep**: Patterns, problem sets, contest practice strategy
+
+---
+
+## 🎯 Quick Navigation
+
+- **Fundamentals**: Notes 1-2 (Complexity, Arrays & Strings)
+- **Linear Structures**: Notes 3-4 (Lists, Stacks, Queues, Sorting, Hashing)
+- **Trees & Heaps**: Notes 5-6 (Trees, BST, Heaps)
+- **Graphs**: Notes 7-8 (Graph Algorithms, Shortest Paths, MST)
+- **Advanced**: Notes 9-10 (DP, Greedy, Tries, Advanced Topics)
+
+---
+
+## 📝 Study Tips
+
+1. Master fundamentals (1-2) before moving to complex structures
+2. Practice linear structures (3-4) with LeetCode Easy problems
+3. Build strong tree/heap intuition (5-6) with visualization
+4. Graph algorithms (7-8) require drawing and tracing
+5. DP and advanced topics (9-10) need pattern recognition
+
+---
+
+## 🔗 External Resources
+
+- [LeetCode](https://leetcode.com/problemset/all/)
+- [GeeksforGeeks DSA](https://www.geeksforgeeks.org/data-structures/)
+- [Visualgo - Algorithm Visualizations](https://visualgo.net/)
+- [NeetCode Roadmap](https://neetcode.io/roadmap)
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+
+---
+
+## 📊 Complexity Cheat Sheet
+
+| Operation | Array | Linked List | Stack | Queue | BST (avg) | Hash Table |
+|-----------|-------|-------------|-------|-------|-----------|------------|
+| Access    | O(1)  | O(n)        | O(n)  | O(n)  | O(log n)  | O(1)       |
+| Search    | O(n)  | O(n)        | O(n)  | O(n)  | O(log n)  | O(1)       |
+| Insert    | O(n)  | O(1)        | O(1)  | O(1)  | O(log n)  | O(1)       |
+| Delete    | O(n)  | O(1)        | O(1)  | O(1)  | O(log n)  | O(1)       |
