@@ -1297,11 +1297,69 @@ Child variable **overrides** parent's.
 
 ---
 
-### **Q27. How do you call a parent constructor?**
+### **Q27. How do you call a parent constructor (and when to use `super()`)?**
+
+Use `super()` to call parent methods (recommended) — most commonly used to call the parent `__init__`.
 
 ```python
-super().__init__()
+class Parent:
+    def __init__(self, x):
+        self.x = x
+
+class Child(Parent):
+    def __init__(self, x, y):
+        super().__init__(x)   # calls Parent.__init__
+        self.y = y
 ```
+
+You can also call other parent methods with `super()`:
+
+```python
+class A:
+    def greet(self):
+        print("Hello from A")
+
+class B(A):
+    def greet(self):
+        super().greet()
+        print("Hello from B")
+```
+
+`super()` is especially useful for cooperative multiple inheritance — it follows the MRO (Method Resolution Order) so each class in the chain can participate:
+
+```python
+class X:
+    def show(self):
+        print("X")
+
+class Y(X):
+    def show(self):
+        super().show()
+        print("Y")
+
+class Z(X):
+    def show(self):
+        super().show()
+        print("Z")
+
+class A(Y, Z):
+    def show(self):
+        super().show()
+        print("A")
+
+A().show()
+# Output:
+# X
+# Z
+# Y
+# A
+```
+
+**Notes:**
+
+- Prefer `super()` over direct parent calls (`Parent.method(self, ...)`) because it supports cooperative multiple inheritance and is easier to maintain.
+- In Python 3 you can call `super()` without arguments; in older versions you needed `super(Child, self)`.
+- Use `ClassName.mro()` to inspect the method resolution order when debugging.
 
 ---
 

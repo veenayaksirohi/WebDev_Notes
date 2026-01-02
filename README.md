@@ -1,11 +1,12 @@
 **Introduction:**
 
-My name is **Veenayak Sirohi**, and I’m from **Hapur, Uttar Pradesh**. I recently completed my **B.Tech in Computer Science** from **G.L. Bajaj Institute of Technology**. During my studies, I built a strong foundation in programming and software development.
+My name is **Veenayak Sirohi**, and I am currently based in **Noida, Uttar Pradesh**. I recently completed my **B.Tech in Computer Science** from **G.L. Bajaj Institute of Technology**. During my college years, I gained hands-on experience with **Python, Node.js, SQL, NoSQL, Flask, Express, Docker, and Git**, building a strong foundation in backend development.
 
-In college, I worked with **Python, Node.js, SQL, NoSQL, Flask, Express, Docker, and Git**. I also completed a **Backend Developer Internship at Impressico Business Solutions**, where I developed and maintained **REST APIs**, optimized **PostgreSQL queries**, implemented **JWT-based authentication**, and worked with **CI/CD pipelines using GitHub Actions**. This experience improved my debugging skills, log analysis, and my overall problem-solving approach.
+I also completed a **Backend Developer Internship at Impressico Business Solutions**, where I worked on developing and maintaining **REST APIs**, optimizing **PostgreSQL queries**, implementing **JWT-based authentication**, and supporting **CI/CD pipelines using GitHub Actions**. This experience significantly strengthened my debugging skills, log analysis abilities, and overall problem-solving approach.
 
-In my free time, I enjoy **watching anime**, **learning new tools and technologies**, and **building small projects** to improve my practical skills. I also like **listening to music**, which helps me stay relaxed and focused.
+In my free time, I enjoy watching anime, learning new tools and technologies, and listening to music, which helps me stay curious and motivated.
 
+I’m eager to apply my skills, learn from the team, and contribute effectively. I’d appreciate the opportunity to work with you.
 ---
 
 **Strengths:**
