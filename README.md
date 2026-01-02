@@ -7,6 +7,7 @@ I also completed a **Backend Developer Internship at Impressico Business Solutio
 In my free time, I enjoy watching anime, learning new tools and technologies, and listening to music, which helps me stay curious and motivated.
 
 I’m eager to apply my skills, learn from the team, and contribute effectively. I’d appreciate the opportunity to work with you.
+
 ---
 
 **Strengths:**
